@@ -25,7 +25,7 @@
   "homepage": "https://ckeditor.com/ckeditor-5",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-adapter-ckfinder.git"
+    "url": "https://github.com/ckeditor/ckeditor5-inline-adapter-ckfinder.git"
   },
   "files": [
     "lang",
