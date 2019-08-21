@@ -9,9 +9,9 @@
     "ckeditor5-feature",
     "ckeditor5-plugin"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "@ckeditor/ckeditor5-core": "12.1.0",
-    "@ckeditor/ckeditor5-upload": "^11.0.2"
+    "@ckeditor/ckeditor5-upload": "11.0.1"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
